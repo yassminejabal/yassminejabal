@@ -55,52 +55,43 @@ const yassmine = {
     <td width="50%" valign="top">
       <h3>🧖 Harmony Moroccan Spa</h3>
       <p>Responsive spa booking platform, from service selection to appointment confirmation, with role-based administration.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-F4C430?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-F4C430?style=flat-square&logo=nextdotjs&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind-F4C430?style=flat-square&logo=tailwindcss&logoColor=black" />
+      <img src="https://img.shields.io/badge/Laravel-F4C430?style=flat-square&logo=laravel&logoColor=black" />
+      <img src="https://img.shields.io/badge/MySQL-F4C430?style=flat-square&logo=mysql&logoColor=black" />
     </td>
     <td width="50%" valign="top">
       <h3>🚚 Fleet Transport Management</h3>
       <p>Full-stack platform for vehicles, drivers, trips and preventive maintenance, with assignment-conflict checks and alerts.</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-F4C430?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-F4C430?style=flat-square&logo=nodedotjs&logoColor=black" />
+      <img src="https://img.shields.io/badge/MongoDB-F4C430?style=flat-square&logo=mongodb&logoColor=black" />
+      <img src="https://img.shields.io/badge/Jest-F4C430?style=flat-square&logo=jest&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-F4C430?style=flat-square&logo=docker&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/yassminejabal/RareCare">🩺 RareCare</a></h3>
       <p>Medical platform for managing rare-disease patient data and supporting follow-up and clinical research.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-F4C430?style=flat-square&logo=laravel&logoColor=black" />
+      <img src="https://img.shields.io/badge/MySQL-F4C430?style=flat-square&logo=mysql&logoColor=black" />
+      <img src="https://img.shields.io/badge/Swagger-F4C430?style=flat-square&logo=swagger&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-F4C430?style=flat-square&logo=docker&logoColor=black" />
     </td>
     <td width="50%" valign="top">
       <h3>🏨 Hotel Management App</h3>
       <p>Hotel operations app for reservations, room availability, guest records, invoices and dashboard metrics.</p>
-      <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel_12-F4C430?style=flat-square&logo=laravel&logoColor=black" />
+      <img src="https://img.shields.io/badge/Blade-F4C430?style=flat-square&logo=laravel&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind-F4C430?style=flat-square&logo=tailwindcss&logoColor=black" />
+      <img src="https://img.shields.io/badge/MySQL-F4C430?style=flat-square&logo=mysql&logoColor=black" />
     </td>
   </tr>
 </table>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yassminejabal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=F4C430&icon_color=F4C430" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassminejabal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=F4C430" alt="Top languages" />
-  <br />
-  <img width="75%" src="https://streak-stats.demolab.com?user=yassminejabal&theme=tokyonight&hide_border=true&background=0f172a&ring=F4C430&fire=F4C430&currStreakLabel=F4C430" alt="Streak" />
-</div>
 
 ---
 
