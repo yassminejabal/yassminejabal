@@ -40,6 +40,14 @@ const yassmine = {
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yassminejabal/yassminejabal/main/tech-stack.svg" alt="Animated tech stack: React, Next.js, TypeScript, Node.js, Laravel and more" width="100%" />
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
