@@ -43,7 +43,7 @@ const yassmine = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yassminejabal/yassminejabal/main/tech-stack.svg?v=627d25c" alt="Animated tech stack: React, Next.js, TypeScript, Node.js, Laravel and more" width="100%" />
+  <img src="https://raw.githubusercontent.com/yassminejabal/yassminejabal/627d25c333f6c0e4b00955c3eb6ddd96dc5d0fcf/tech-stack.svg" alt="Animated tech stack: React, Next.js, TypeScript, Node.js, Laravel and more" width="100%" />
 </div>
 
 ---
