@@ -7,10 +7,9 @@
 </a>
 
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassmine-jabal-3232b9399/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yassminejabal/)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabalyassmine2007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-F4C430?style=for-the-badge&logo=react&logoColor=black)](https://github.com/yassminejabal/portfolio)
 
 
 </div>
