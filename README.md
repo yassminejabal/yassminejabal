@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabalyassmine2007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-F4C430?style=for-the-badge&logo=react&logoColor=black)](https://github.com/yassminejabal/portfolio)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yassminejabal&label=Profile%20views&color=F4C430&style=flat-square)
 
 </div>
 
